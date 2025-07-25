@@ -1,0 +1,8 @@
+{
+  "name": "Auto Generate Affiliate Konten By Iqbalzcodets",
+  "description": "A web application to automatically generate affiliate marketing content based on product information, desired language style, and video duration. It helps users create compelling titles, descriptions, hashtags, video hooks, problem statements, solutions, calls to action, and voiceover narrations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
